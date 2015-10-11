@@ -1,0 +1,62 @@
+head[
+title[Dokumentation VR-Projekt]
+h2[TGIS SoSe 2015]
+h6[Judith Lindemann]
+]
+
+toc[Inhalt]
+
+sec[Thema][
+Ziel des Projektes war es die Möglichkeiten von Google Cardboard zu explorieren. Dazu sollte ein atmosphärische Mini-Welt im Low Poly Style erstellt werden in der sich der User frei bewegen kann. 
+
+Die Interaktionsmöglichkeiten bei Google Cardboard sind auf folgende drei Punkte beschränkt:
+ul[
+- durch Kopfbewegungen Umhersehen
+- Dinge anvisieren
+- einen Button drücken
+]
+
+]
+
+sec[Technologien][
+
+ul[
+- Google Cardboard Brille
+- Unity
+- Google Cardboard Unity SDK
+- Android und iOS
+- Cinema4D
+]
+
+img[cardboard.jpg]
+cap[Abb.][Cardboard Brille]
+
+img[unity.png]
+cap[Abb.][Unity]
+
+img[ios.png]
+cap[Abb.][Xcode und iPhone]
+
+img[c4d.png]
+cap[Abb.][CINEMA 4D]
+
+]
+
+sec[Projektverlauf][
+
+Die Mini-Welt wurde in CINEMA 4D erstellt und dann nach Unity exportiert.
+
+Das a[https://developers.google.com/cardboard/unity/download][Google Cardboard Unity Demo Projekt] war eine sehr gute Grundlage auf die ich das Projekt aufbauen konnten.
+
+]
+
+sec[Source Code][
+a[https://github.com/Lindemann/LowPolyLand][Unity Projekt auf GitHub]
+]
+sec[Installationsanleitung][
+Das Projekt lässt sich auf iOS und Android Geräten genau so installieren wie das Google Beispielprojekt. Die genaue Anleitung ist unter a[https://developers.google.com/cardboard/overview] verfügbar.
+]
+
+sec[Resultat][
+html[<iframe width="560" height="315" src="https://www.youtube.com/embed/WQUGNdJHePo" frameborder="0" allowfullscreen></iframe>]
+]
